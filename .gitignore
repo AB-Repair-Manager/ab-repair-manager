@@ -1,0 +1,291 @@
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Ww][Ii][Nn]32/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+# Visual Studio cache/options
+.vs/
+.vscode/
+.idea/
+
+# Visual Studio user-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.userprefs
+
+# Visual Studio Build Tools and related
+.vsbuild/
+*.vcxproj.user
+*.vcxproj.filters
+
+# ReSharper is a .NET coding add-in
+_ReSharper*/
+*.DotSettings.user
+
+# JetBrains Rider
+.idea/
+*.sln.iml
+*.rider/
+
+# Visual Studio Code
+.vscode/
+*.code-workspace
+
+# Rider Runtime
+.idea_modules/
+*.sln.iml
+
+# NuGet
+*.nupkg
+*.snupkg
+*.nuget.props
+*.nuget.targets
+.nuget/
+
+# Local NuGet packages
+packages/
+!packages/repositories.config
+
+# Cake - Uncomment if you are using it
+# tools/**
+# !tools/packages.config
+
+# Tap - uncomment if you are using it
+# .tap/
+
+# Visual Studio profiler
+*.psess
+*.vsp
+*.vspx
+*.sap
+
+# ReSharper is a .NET coding add-in
+.resharper
+.resharper.user
+*.resharper
+*.resharper.user
+
+# StyleCop
+StyleCopReport.xml
+
+# Files built by Visual Studio
+*_i.c
+*_p.c
+*_h.h
+*.ilk
+*.meta
+*.obj
+*.iobj
+*.pch
+*.pdb
+*.ipdb
+*.pgc
+*.pgd
+*.rsp
+*.sbr
+*.tlb
+*.tli
+*.tlh
+*.tmp
+*.tmp_proj
+*_wpftmp.csproj
+*.log
+*.vspscc
+*.vssscc
+.builds
+*.pidb
+*.svclog
+*.scc
+
+# Chutzpah Test files
+_Chutzpah*
+
+# Visual C++ cache files
+ipch/
+*.aps
+*.ncb
+*.opendb
+*.opensdf
+*.sdf
+*.cachefile
+*.VC.db
+*.VC.VC.opendb
+
+# Visual Studio profiler
+*.psess
+*.vsp
+*.vspx
+*.sap
+
+# Trace Files
+[Tt]race.log
+
+# TFS 2012 Local Workspace
+$tf/
+
+# Guidance Automation Toolkit
+[Aa]udit/
+[Uu]niqueId/
+
+# Web workbench (sass)
+.sass-cache/
+
+# Locally stored VSIX expiration date and cached information
+.vs/
+
+# MSBuild Binary and Structured Log
+*.binlog
+
+# NVidia Nsight GPU debugger configuration file
+*.nvuser
+
+# MFractors (Xamarin productivity tool) working folder
+.mfractor/
+
+# Local History for Visual Studio
+.localhistory/
+
+# BeatPulse healthcheck temp database
+healthchecksdb
+
+# Rider auto-generated JetBrains metadata
+.idea/
+*.sln.iml
+
+# .NET MAUI specific
+bin/
+obj/
+Properties/launchSettings.json
+*.keystore
+*.jks
+
+# Android/Gradle
+.gradle/
+build/
+local.properties
+*.lock
+
+# iOS/Xcode
+Pods/
+*.xcodeproj/
+*.xcworkspace/
+*.playground
+*.swiftpm/
+DerivedData/
+*.hmap
+*.ipa
+*.dSYM.zip
+*.dSYM
+xcuser.xcuserdatad/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Windows
+ehthumbs.db
+Thumbs.db
+Desktop.ini
+
+# Rider plugins
+.ideaPlugins/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Angular
+node_modules/
+dist/
+.angular/
+
+# User-specific environment variables
+.env
+.env.local
+.env.*.local
+
+# IDE specific files
+.editorconfig.user
+.vs/
+.vscode/
+*.sublime-workspace
+*.sublime-project
+
+# Backup files
+*.bak
+*.backup
+*~
+*.swp
+*.swo
+
+# Temporary files
+*.tmp
+*.temp
+$RECYCLE.BIN/
+
+# Testing
+TestResults/
+*.trx
+coverage/
+.coverage
+htmlcov/
+
+# Application Insights Telemetry Engine
+ApplicationInsights/
+
+# Local files
+secrets.json
+appsettings.*.json
+
+# macOS-specific
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
+
+# Ignore lock files for dependencies
+yarn.lock
+package-lock.json
